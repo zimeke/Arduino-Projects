@@ -4,8 +4,11 @@ This project involves creating an environmental monitoring device that displays 
 
 ## Components Used
 * Arduino Uno Rev3
-* Motor Driver (L298N)
-* 2 x DC Motor (JGA25-370; 12V 12rpm variant)
-* Ultrasonic Sensor (HC-SR04)
+* Analog UV Sensor (GUVA-S12SD)
+* 16x2 LCD Display
+* I2C bus for LCD Display (LCM1602)
+* Pressure Sensor (BMP280)
+* AC Adaptor (12V DC 500mA)
 * 5.5mm DC Male Jack Connector
+* 100kOhm Pull-Up Resistor
 * Casing: A custom-built enclosure made from a junction box to house the components securely
