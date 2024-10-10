@@ -22,3 +22,4 @@ The car’s movement is indicated by LEDs:
 * 5.5mm DC Male Jack Connector
 * 3 x 1kOhm Resistor
 * 2 x 4AA Battery Holder
+* Chassis: A custom-built frame where the components are mounted on a wooden board, along with a support wheel for stability
