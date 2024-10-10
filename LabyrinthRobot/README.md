@@ -12,3 +12,4 @@ The LabyrinthRobot project involves creating a robot capable of navigating out o
 * 5.5mm DC Male Jack Connector
 * Servo Motor (SG90)
 * 2 x 4AA Battery Holder
+* Chassis: A custom-built frame where the components are mounted on a wooden board, along with a support wheel for stability.
