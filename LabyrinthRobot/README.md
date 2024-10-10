@@ -5,8 +5,8 @@ The LabyrinthRobot project involves creating a robot capable of navigating out o
 ## Components Used
 * Arduino Uno Rev3
 * Motor Driver (L298N)
-* 2 x DC motor (JGA25-370; 12V 12rpm variant)
+* 2 x DC Motor (JGA25-370; 12V 12rpm variant)
 * Ultrasonic Sensor (HC-SR04)
-* 5.5mm DC male Jack connector
+* 5.5mm DC Male Jack Connector
 * Servo Motor (SG90)
-* 2 x 4AA battery holder
+* 2 x 4AA Battery Holder
