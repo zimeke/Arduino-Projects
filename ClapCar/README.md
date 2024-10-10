@@ -15,7 +15,7 @@ The car’s movement is indicated by LEDs:
 * Yellow LED: indicates when a clap is detected
 
 ## Components Used
-* Arduino Uno
+* Arduino Uno Rev3
 * Motor Driver (L298N)
 * 2 x DC motor (JGA25-370; 12V 12rpm variant)
 * Analog Sound Sensor
