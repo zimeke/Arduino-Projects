@@ -17,8 +17,8 @@ The car’s movement is indicated by LEDs:
 ## Components Used
 * Arduino Uno Rev3
 * Motor Driver (L298N)
-* 2 x DC motor (JGA25-370; 12V 12rpm variant)
+* 2 x DC Motor (JGA25-370; 12V 12rpm variant)
 * Analog Sound Sensor
-* 5.5mm DC male Jack connector
-* 3 x 1kOhm resistor
-* 2 x 4AA battery holder
+* 5.5mm DC Male Jack Connector
+* 3 x 1kOhm Resistor
+* 2 x 4AA Battery Holder
