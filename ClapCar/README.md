@@ -17,6 +17,9 @@ The car’s movement is indicated by LEDs:
 * Green LED: the car is moving
 * Yellow LED: indicates when a clap is detected
 
+![ClapCar_JPG](https://github.com/user-attachments/assets/8b08e6dd-b6ae-408f-aa5f-17b38f41a5b9)
+
+
 ## Components Used
 * Arduino Uno Rev3
 * Motor Driver (L298N)
