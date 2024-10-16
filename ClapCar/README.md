@@ -2,6 +2,9 @@
 
 This project demonstrates how to control a small car using sound detection (clapping). By detecting different numbers of claps, the car can rotate or move forward. The use of LEDs provides visual feedback on the car’s status, making it easier to understand its current state.
 
+![ClapCar](https://github.com/user-attachments/assets/ca8598f3-e6a3-466f-a0a4-00f13d131f96)
+
+
 The car responds to claps as follows:
 * One clap: starts rotating to the right
 * Two claps: starts rotating to the left
