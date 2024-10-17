@@ -4,6 +4,9 @@ The LabyrinthRobot project involves creating a robot capable of navigating out o
 
 ![LabyrinthRobot](https://github.com/user-attachments/assets/c0fd9e2e-76c2-4d62-8cd9-c5b683e22a94)
 
+
+![Schematic](https://github.com/user-attachments/assets/61cdb3bb-d1bb-450b-9666-6f9bca4156af)
+
 ## Components Used
 * Arduino Uno Rev3
 * Motor Driver (L298N)
